@@ -1,5 +1,5 @@
 NOTES: 
-- Really incomplete
+- Really incomplete, but I hope thats's just for now
 - Pipeline for getting fasta files to vcf files
 - fasta files are mapped to reference using minimap2, whose mappings end up as paf files
 - paf files are parsed to vcfs with a script
