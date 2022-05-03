@@ -1,3 +1,6 @@
+SEE https://github.com/nick33333/Genome-Analysis-Pipeline for functioning version of pipeline. There's also a README
+
+
 NOTES: 
 - Really incomplete, but I hope thats's just for now
 - Pipeline for getting fasta files to vcf files
